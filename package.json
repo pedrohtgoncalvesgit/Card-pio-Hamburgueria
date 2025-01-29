@@ -1,0 +1,23 @@
+{
+  "name": "card-pio-hamburgueria",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+   "dev":"npx tailwindcss -i ./Css/Styles.css -o ./Css/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedrohtgoncalvesgit/Card-pio-Hamburgueria.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedrohtgoncalvesgit/Card-pio-Hamburgueria/issues"
+  },
+  "homepage": "https://github.com/pedrohtgoncalvesgit/Card-pio-Hamburgueria#readme",
+  "description": "",
+ "devDependencies": {
+    "tailwindcss": "^3.4.17"
+  }
+}
